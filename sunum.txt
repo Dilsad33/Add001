@@ -1,1 +1,2 @@
 bilgi 1
+2.satırda değişiklik
